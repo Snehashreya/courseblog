@@ -1,0 +1,28 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.category{
+    text-decoration: none;
+}
+ .underlinefront{
+    width: 116px;
+    height: 4px;
+
+    background-color: rgb(255, 0, 0) !important;
+}
+.row1{
+    margin-left: calc(4.5 * var(--bs-gutter-x));
+    margin-right: calc(3.5 * var(--bs-gutter-x));
+}
+
+.vl {
+    border-left: 3px solid whitesmoke;
+    height: 40px;
+  }
+
+ul li .footer{
+   text-decoration: none;
+   color:white;
+}
+
